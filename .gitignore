@@ -1,0 +1,5 @@
+/node_modules
+/build/key.pem
+build.crx
+build.pem
+build.zip
